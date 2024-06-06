@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there! 👋 I'm [Your Name]
 
-<!--
-**bymunajat/bymunajat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate Back End Developer specializing in PHP, Laravel, and Filament. With a strong focus on building scalable and efficient applications, I enjoy turning complex problems into simple, beautiful solutions.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages & Frameworks:** PHP, Laravel, Filament
+- **Databases:** MySQL, PostgreSQL, Redis
+- **Tools:** Docker, Jira, Trello, Microsoft Project
+
+## 📫 Get in Touch
+
+- **LinkedIn:** [Your LinkedIn Profile]
+- **Email:** [Your Email]
+
+Feel free to reach out if you'd like to collaborate on a project, need help with back-end development, or just want to connect. Let's build something amazing together!
