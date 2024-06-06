@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate Back End Developer specializing i
 
 ## 📫 Get in Touch
 
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Email:** [Your Email]
+- **Facebook:** [[Facebook](https://facebook.com/bymunajat/)]
+- **Email:** [bymunajat@gmail.com]
 
 Feel free to reach out if you'd like to collaborate on a project, need help with back-end development, or just want to connect. Let's build something amazing together!
