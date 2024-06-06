@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate Back End Developer specializing i
 
 - **Languages & Frameworks:** PHP, Laravel, Filament
 - **Databases:** MySQL, PostgreSQL, Redis
-- **Tools:** Docker, Jira, Trello, Microsoft Project
+- **Tools:** Docker, Jira, Trello, Microsoft Project, Postman, Gitlab
 
 ## 📫 Get in Touch
 
