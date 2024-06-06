@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate Back End Developer specializing i
 
 ## 🔧 Technologies & Tools
 
-- **Languages & Frameworks:** PHP, Laravel, Filament
+- **Languages & Frameworks:** PHP, Javacript, CSS, Laravel, Filament, Reactjs
 - **Databases:** MySQL, PostgreSQL, Redis
 - **Tools:** Docker, Jira, Trello, Microsoft Project, Postman, Gitlab
 
