@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm a passionate Back End Developer specializing i
 
 ## 📫 Get in Touch
 
-- **Facebook:** [Facebook](https://facebook.com/bymunajat/)
 - **Email:** bymunajat@gmail.com
 - **Web:** [bymunajat.github.io](https://bymunajat.github.io)
 
