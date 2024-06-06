@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Munajat
 
 Welcome to my GitHub profile! I'm a passionate Back End Developer specializing in PHP, Laravel, and Filament. With a strong focus on building scalable and efficient applications, I enjoy turning complex problems into simple, beautiful solutions.
 
