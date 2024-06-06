@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm a passionate Back End Developer specializing i
 
 ## 📫 Get in Touch
 
-- **Email:** bymunajat@gmail.com
 - **Web:** [bymunajat.github.io](https://bymunajat.github.io)
 
 Feel free to reach out if you'd like to collaborate on a project, need help with back-end development, or just want to connect. Let's build something amazing together!
