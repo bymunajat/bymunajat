@@ -4,6 +4,6 @@ Welcome to my GitHub! I'm Munajat, a passionate IT project manager and back end 
 
 ## Contact
 
-Feel free to reach out to me via [WhatsApp](https://wa.me/6281511532440) if you have any questions or would like to collaborate on a project!
+Feel free to reach out to me via Whatsapp [+6281511532440](https://wa.me/6281511532440) if you have any questions or would like to collaborate on a project!
 
 
