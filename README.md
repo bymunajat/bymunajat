@@ -1,15 +1,9 @@
-# Hi there! 👋 I'm Munajat
+# Munajat's Projects
 
-Welcome to my GitHub profile! I'm a passionate Back End Developer. With a strong focus on building scalable and efficient applications, I enjoy turning complex problems into simple, beautiful solutions.
+Welcome to my GitHub! I'm Munajat, a passionate IT project manager and back end developer. Here you'll find a variety of projects that showcase my skills and interests in technology and software development.
 
-## 🔧 Technologies & Tools
+## Contact
 
-- **Languages & Frameworks:** PHP, Javacript, CSS, Laravel, Filament, Reactjs
-- **Databases:** MySQL, PostgreSQL, Redis
-- **Tools:** Docker, Jira, Trello, Microsoft Project, Postman, Gitlab
+Feel free to reach out to me via [WhatsApp](https://wa.me/6281511532440) if you have any questions or would like to collaborate on a project!
 
-## 📫 Get in Touch
 
-- **Web:** [bymunajat.github.io](https://bymunajat.github.io)
-
-Feel free to reach out if you'd like to collaborate on a project, need help with back-end development, or just want to connect. Let's build something amazing together!
