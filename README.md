@@ -1,6 +1,7 @@
 # Hello there! 👋 I'm Munajat
 
-Welcome to my GitHub! I'm Munajat, a passionate IT project manager. Here you'll find a variety of projects that showcase my skills and interests in technology and software development.
+I'm Munajat, an IT Project Manager with a strong interest in data and technology. Here, you’ll find projects that highlight my skills and passion for data analysis, project management, and software development.
+
 
 ## Contact
 
