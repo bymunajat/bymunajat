@@ -1,4 +1,4 @@
-# Hello there! 👋 I'm Munajat
+# Welcome to my GitHub!😁
 
 I'm Munajat, an IT Project Manager with a strong interest in data and technology. Here, you’ll find projects that highlight my skills and passion for data analysis, project management, and software development.
 
