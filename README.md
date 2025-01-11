@@ -8,8 +8,4 @@ I am a passionate and experienced freelancer specializing in **Laravel** and **W
 
 Feel free to reach out for collaborations or project inquiries!
 
-## Contact
-
-Feel free to reach out to me via Whatsapp [+6281511532440](https://wa.me/6281511532440) if you have any questions or would like to collaborate on a project!
-
 
