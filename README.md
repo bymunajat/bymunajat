@@ -1,11 +1,13 @@
-# Welcome to my GitHub!😁
+# 👋 Hi, I'm Munajat
 
-**Laravel & WordPress Developer**
+**🎯 WordPress, SEO & Google Ads Specialist**
 
-experienced specializing in **Laravel** and **WordPress** development. I help businesses build dynamic and efficient web applications, from custom WordPress sites to advanced Laravel projects.
+I help businesses grow their online presence through:
 
-[Check out my Website](https://www.mungrid.com)
+- Custom WordPress development (with or without page builders)
+- SEO strategies to boost organic traffic
+- Google Ads campaigns that drive real results
 
-Feel free to reach out for collaborations or project inquiries!
+📌 [View my Upwork Profile](https://www.upwork.com/freelancers/~01650fba6381529571?mp_source=share)
 
-
+Open for collaborations and project opportunities!
