@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Munajat
 
-**🎯 WordPress, SEO & Google Ads Specialist**
+**WordPress, SEO & Google Ads Specialist**
 
 I help businesses grow their online presence through:
 
