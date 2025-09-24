@@ -8,6 +8,5 @@ I help businesses grow their online presence through:
 - Targeted Google Ads campaigns that maximize ROI and generate real leads
 - Website & content optimization to improve user experience and campaign performance
 
-📌 [View my Website](bymunajat.com)
+Open for collaborations and project opportunities! 
 
-Open for collaborations and project opportunities!
