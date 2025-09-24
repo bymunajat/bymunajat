@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Munajat
 
-**SEO & SEM Specialist | Google Ads Expert**
+**SEO Specialist**
 
 I help businesses grow their online presence through:
 
