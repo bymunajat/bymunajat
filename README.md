@@ -8,6 +8,6 @@ I help businesses grow their online presence through:
 - Targeted Google Ads campaigns that maximize ROI and generate real leads
 - Website & content optimization to improve user experience and campaign performance
 
-📌 [View my Upwork Profile](https://www.upwork.com/freelancers/~01650fba6381529571?mp_source=share)
+📌 [View my Website](bymunajat.com)
 
 Open for collaborations and project opportunities!
